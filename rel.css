@@ -1,0 +1,239 @@
+body { 
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: inset;
+    color: white;
+    background-image:url(https://img.freepik.com/premium-photo/black-marble-background-texture-natural-stone-pattern-abstract-design-art-work-marble-with-high-resolution_24076-679.jpg)
+}
+h3 {
+    width: fit-content;
+    height: auto;
+    border-radius: 15px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    color: white;
+}
+h2 {
+    font-size: 35px;
+    width: fit-content;
+    height: auto;
+    border-radius: 15px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    color: white;
+}
+h1 {
+  font-size: 35px;
+  width: fit-content;
+  height: auto;
+  border-radius: 15px;
+  background-image: url(2024_01_12_0fd_Kleki.png);
+  color: white;
+}
+h4 {
+  font-size: 20px;
+  width: fit-content;
+  height: auto;
+  border-radius: 15px;
+  background-image: url(2024_01_12_0fd_Kleki.png);
+  color: lightgray;
+  position: relative;
+  bottom: 25px
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+  }
+  a:visited {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: lightgray;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: white;
+    text-decoration: none;
+  }
+.star {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 100px;
+  height: 100px;
+  left: 1150px;
+  bottom: 70px;
+  position: relative;
+}
+.abrahamic {
+  bottom: 600px;
+  position: relative;
+  font-size: 40px;
+}
+.golden {
+  bottom: 600px;
+  position: relative;
+  font-size: 40px;
+}
+.p1 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 320px;
+  height: 480px;
+  left: 1080px;
+  top: 90px;
+  position: relative;
+}
+.p2 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 300px;
+  height: 480px;
+  left: 760px;
+  top: 590px;
+  position: relative;
+}
+.p3 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 300px;
+  height: 420px;
+  left: 458px;
+  top: 1040px;
+  position: relative;
+}
+.religiondesc {
+  bottom: 550px;
+  position: relative;
+  font-size: 18px;
+}
+.abradesc {
+  bottom: 620px;
+  position: relative;
+  font-size: 20px;
+}
+.goldend {
+  bottom: 620px;
+  position: relative;
+  font-size: 20px;
+  width: 950px;
+}
+.goldendd {
+  bottom: 620px;
+  position: relative;
+  font-size: 20px;
+}
+.christianity {
+  bottom: 610px;
+  position: relative;
+  font-size: 30px;
+}
+.christianitydesc {
+  bottom: 630px;
+  position: relative;
+  font-size: 18px;
+  width: 850px;
+}
+.islam {
+  bottom: 620px;
+  position: relative;
+  font-size: 30px;
+}
+.islamdesc {
+  bottom: 640px;
+  position: relative;
+  font-size: 18px;
+  width: 850px;
+}
+.asiandesc {
+  bottom: 640px;
+  position: relative;
+  font-size: 20px;
+}
+.asian {
+  bottom: 620px;
+  position: relative;
+  font-size: 40px;
+}
+.buddhism {
+  bottom: 640px;
+  position: relative;
+  font-size: 30px;
+}
+.buddhismdesc {
+  bottom: 650px;
+  position: relative;
+  font-size: 18px;
+  width: 850px;
+}
+.confucianism {
+  bottom: 630px;
+  position: relative;
+  font-size: 30px;
+}
+.confucianismdesc {
+  bottom: 640px;
+  position: relative;
+  font-size: 18px;
+  width: 850px;
+}
+.thepire {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 300px;
+  height: 420px;
+  left: 1070px;
+  top: -1650px;
+  position: relative;
+}
+.emerald {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 350px;
+  height: 420px;
+  left: 743px;
+  top: -1100px;
+  position: relative;
+}
+.c1 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 350px;
+  height: 420px;
+  left: 1100px;
+  top: -1450px;
+  position: relative;
+}
+.c2 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 350px;
+  height: 420px;
+  left: 743px;
+  top: -1000px;
+  position: relative;
+}
+.c3 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 350px;
+  height: 420px;
+  left: 1100px;
+  top: -220px;
+  position: relative;
+}
+.c4 {
+  border: 2px solid black;
+  border-radius: 25px;
+  width: 350px;
+  height: 420px;
+  left: 743px;
+  top: -660px;
+  position: relative;
+}
+.construction {
+  border: 2px solid black;
+  border-radius: 25px;
+  position: relative;
+}
+

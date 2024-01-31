@@ -1,0 +1,109 @@
+.text {
+    position: relative;
+}
+.text2 {
+    position: relative;
+    bottom: 5px; 
+    border-radius: 15px;
+    padding: 10px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    font-size: 22px;
+}
+.religion {
+    left: 450px;
+    position: relative;
+    top: 35px
+    
+}
+.kingdoms {
+    position: relative;
+    bottom: 382px;
+}
+.events {
+    right: 450px;
+    position: relative;
+    bottom: 798px;
+}
+img {
+border: 2px solid black;
+border-radius: 25px;
+}
+.header {
+    font-size: 25px;
+    border-radius: 15px;
+    padding: 20px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    height: 40px;
+}
+.header2 {
+    border-radius: 15px;
+    padding: 20px;
+    position: relative;
+    bottom:52px ;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    width: 140px;
+    left: 720px;
+    bottom: 45px;
+    color: lightgray;
+}
+
+.texthead {
+    word-spacing: 140px;
+    border-radius: 15px;
+    padding: 15px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    top: -20px;
+    position: relative;
+
+}
+body { 
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: inset;
+    color: white;
+    position: absolute;
+    background-image:url(https://img.freepik.com/premium-photo/black-marble-background-texture-natural-stone-pattern-abstract-design-art-work-marble-with-high-resolution_24076-679.jpg)
+}
+h3 {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    color: white;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+  }
+  a:visited {
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: lightgray;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: white;
+    text-decoration: none;
+  }
+  table{
+    width: 1590px;
+    border-radius: 15px;
+    background-image: url(2024_01_12_0fd_Kleki.png);
+    }
+td {
+    padding-left: 100px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.form {
+    right: 450px;
+    position: relative;
+    bottom: 798px;
+    top: -1575px;
+    left: -720px;
+}
+

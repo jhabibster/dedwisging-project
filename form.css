@@ -1,0 +1,24 @@
+body { 
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: inset;
+    color: white;
+    position: absolute;
+    background-image:url(https://img.freepik.com/premium-photo/black-marble-background-texture-natural-stone-pattern-abstract-design-art-work-marble-with-high-resolution_24076-679.jpg)
+}
+
+input, label, p, img {
+border-radius: 15px;
+background-image: url(2024_01_12_0fd_Kleki.png);
+color: white;
+}
+textarea {
+        border-radius: 15px;
+        background-image: url(2024_01_12_0fd_Kleki.png);
+        color: white;
+        bottom: 850px;
+}
+.religion {
+    left: 850px;
+    position: relative;
+    top: -500px
+}
